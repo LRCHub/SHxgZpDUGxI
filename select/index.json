@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "地球儀 - Spinning Globe",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-02-09T12:16:40.131467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Aimer feat. Vaundy",
+      "has_synced": true,
+      "path": "select/01_地球儀_Aimer_feat._Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Aimer with Vaundy",
+      "has_synced": true,
+      "path": "select/02_地球儀_Aimer_with_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_地球儀_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_地球儀_-_Spinning_Globe_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_地球儀_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_地球儀_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/07_地球儀_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/08_地球儀_-_Spinning_Globe_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Aimer, Vaundy",
+      "has_synced": true,
+      "path": "select/09_地球儀_Aimer,_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_地球儀_-_Spinning_Globe_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Aimer,Vaundy",
+      "has_synced": true,
+      "path": "select/11_地球儀_Aimer,Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe - Chikyugi - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/12_地球儀_-_Spinning_Globe_-_Chikyugi_-_Spinning_Globe_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/13_地球儀_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/14_地球儀_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": false,
+      "path": "select/15_地球儀_Yonezu,_Kenshi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/16_地球儀_-_Spinning_Globe_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe - Chikyugi - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/17_地球儀_-_Spinning_Globe_-_Chikyugi_-_Spinning_Globe_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe -",
+      "artist": "Joe Hisaishi",
+      "has_synced": true,
+      "path": "select/18_地球儀_-_Spinning_Globe_-_Joe_Hisaishi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/19_地球儀_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_09_地球儀_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_10_地球儀_米津玄師.txt"
+    }
+  ]
+}
